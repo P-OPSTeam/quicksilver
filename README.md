@@ -1,3 +1,3 @@
 # Quicksilver
 
-For readme of he monitoring cli head over to that folder
+For readme of the monitoring cli head over to that folder
